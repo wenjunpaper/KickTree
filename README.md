@@ -1,14 +1,14 @@
 # KickTree
 * Paper Website: https://www.wenjunli.com/KickTree
 
-  Conference Paper: 
+* Conference Paper: 
   
   KickTree: A Recursive Algorithmic Scheme for Packet Classification with Bounded Worst-Case Performance (ACM/IEEE ANCS 2021)
   
   Authors: Yao Xin, Yuxi Liu, Wenjun Li*(Corresponding author), Ruyi Yao, Yang Xu, Yi Wang (Yao Xin and Yuxi Liu contributed equally to this paper, and they conducted this work under the guidance of Wenjun Li.)
 
 
-  Extended Journal Paper: 
+* Extended Journal Paper: 
   
   Recursive Multi-Tree Construction with Efficient Rule Sifting for Packet Classification on FPGA (IEEE/ACM Transactions on Networking, 2024)
   
