@@ -1,6 +1,8 @@
 # KickTree
 * Paper Website: https://www.wenjunli.com/KickTree
 
+* Corresponding e-mail: wenjunli@pku.org.cn
+
 * Conference Paper: 
   
   KickTree: A Recursive Algorithmic Scheme for Packet Classification with Bounded Worst-Case Performance (ACM/IEEE ANCS 2021)
